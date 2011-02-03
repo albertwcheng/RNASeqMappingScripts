@@ -1,0 +1,4 @@
+BWA mapping
+===========
+1) prepare BWA indices
+edit bwa.config.sh
